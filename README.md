@@ -1,7 +1,6 @@
 # Hi there, I'm Triggox! 👋
 
-![Header](https://media.giphy.com/media/5xaOcLT2W3sXq6tGQvC/giphy.gif)
-
+![Header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ## 🚀 About Me
 🔹 Blockchain Enthusiast | Ethical Hacker | AI & IoT Learner  
 🔹 Passionate about Cybersecurity & Web3 Technologies  
@@ -63,4 +62,4 @@
 
 ---
 
-![Thanks for Visiting](https://media.giphy.com/media/2zPmX2wRkqUvvZoDQo/giphy.gif)
+![Thanks for Visiting](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
