@@ -10,11 +10,6 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 Blockchain & Web3
-<img src="https://skillicons.dev/icons?i=ethereum,solidity,polygon,ipfs" width="300" />
-
-### 🔐 Cybersecurity & Ethical Hacking
-<img src="https://skillicons.dev/icons?i=linux,burpsuite" width="200" />
 
 ### 🤖 AI & ML
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" width="250" />
@@ -34,16 +29,6 @@
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Triggox&theme=dark)
-
----
-
-## 📂 Featured Projects
-
-### 🔗 Blockchain Projects
-[![Project Name](https://img.shields.io/badge/Project-Blockchain-blue?style=for-the-badge)](https://github.com/Triggox/project-name)
-
-### 🔐 Cybersecurity Projects
-[![Project Name](https://img.shields.io/badge/Project-Cybersecurity-red?style=for-the-badge)](https://github.com/Triggox/project-name)
 
 ---
 
